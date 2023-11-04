@@ -1,0 +1,51 @@
+{
+  "HALProvider": {
+    "Other Devices": {
+      "CANCoder (Pro)[3]": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon FX (Pro)[1]": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon FX (Pro)[1]/Fwd Limit": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon FX (Pro)[1]/Rev Limit": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon FX (Pro)[1]/Rotor Sensor": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon FX (Pro)[2]/Fwd Limit": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon FX (Pro)[2]/Rotor Sensor": {
+        "header": {
+          "open": true
+        }
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/Pose": "Field2d",
+      "/SmartDashboard/Module 0": "Mechanism2d",
+      "/SmartDashboard/Module 1": "Mechanism2d",
+      "/SmartDashboard/Module 2": "Mechanism2d",
+      "/SmartDashboard/Module 3": "Mechanism2d"
+    }
+  }
+}
